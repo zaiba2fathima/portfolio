@@ -18,19 +18,19 @@ Welcome to my personal portfolio website! I'm Zaiba Fathima, a final-year Engine
 
 ### 📺 Netflix Clone  
 A frontend replica of the Netflix homepage built with pure HTML and CSS.  
-![Netflix Clone](images/netflix.png)
+
 
 ### 📝 Weather Forecasting Dashboard 
 Frontend Dashboard showing weather data with dynamic UI and location-based features using APi integration. 
-![Weather Forecasting Dashboard ](images/weather.png)
+
 
 ### 🍽️ Restaurant Website
 Static responsive Website built using HTML and Tailwind CSS to showcase restaurantservices and menu.
-![ Restaurant Website ](images/menu.png)
+
 
 ### 🤖 AI Chatbot
 A full-stack AI-powered chatbot application with a responsive frontend and an intelligent backend integrated with OpenAI's API.
-![ AI Chatbot ](images/aichat.avif)
+
 
 ---
 
